@@ -18,5 +18,7 @@ This project was done under the NUS module DSA4262, of which it focuses on proje
   8. Feature Analysis (Exploration)
   
 ### Models Used:
-  1. XGBoost
+  1. Logistic Regression
+  2. Decision Trees
+  3. XGBoost
   
