@@ -1,5 +1,5 @@
 # Drug-Sentiment-Analysis
-This project was done under the NUS module DSA4262, of which it focuses on projects that center around medicine and healthcare. I wrote an article regarding this topic, here is a [link](https://medium.com/ai-in-plain-english/sentiment-classification-using-xgboost-7abdaf4771f9).
+This project was done under the NUS module DSA4262, of which it focuses on projects that center around medicine and healthcare. **I wrote an article regarding this topic, here is a [link](https://medium.com/ai-in-plain-english/sentiment-classification-using-xgboost-7abdaf4771f9).**
 
 ![Drugs](https://github.com/jaotheboss/Drug-Sentiment-Analysis/blob/master/Drugs.png)
 
