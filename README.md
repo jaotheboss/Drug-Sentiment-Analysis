@@ -1,6 +1,8 @@
 # Drug-Sentiment-Analysis
 This project was done under the NUS module DSA4262, of which it focuses on projects that center around medicine and healthcare.
 
+![Drugs](https://github.com/jaotheboss/Drug-Sentiment-Analysis/blob/master/Drugs.png)
+
 ## Overview
   1. The nature of this project is natural language processing
   2. Each review has a rating between 1 - 10
